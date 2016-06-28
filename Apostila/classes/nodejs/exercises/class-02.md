@@ -1,6 +1,6 @@
 # Node.js - Aula 02 - Exercício
 
-1. Quais são os 4 verbos que utilizamos para o CRUD?
+1. Quais são os 4 verbos do **HTML** que utilizamos para o CRUD?
 2. Para que foram inventados os Status Codes? Dê exemplo de 1 código por grupo e a imagem do [Cat Status Code](https://http.cat/).
 3. Explique o que é cada parâmetro da função recebida no `createServer`.
 4. O que é e para que serve a Querystring?
@@ -41,7 +41,7 @@
 
 [Veja na nossa Wiki](https://github.com/Webschool-io/be-mean-instagram/wiki/Exerc%C3%ADcios)
 
-1. Crie o repositório específico do módulo. Ex.: be-mean-instagram-mongodb
+1. Crie o repositório específico do módulo. Ex.: be-mean-instagram-nodejs
 2. Crie a solução do exercício localmente nesse repositório, usando sempre o padrão `class-X-resolved-githubuser-Nome-Completo-Com-Hifens-Nos-Espaços.md`
 3. Dê um `fork` no repositório oficial [https://github.com/Webschool-io/be-mean-instagram-nodejs-exercises](https://github.com/Webschool-io/be-mean-instagram-nodejs-exercises)
 4. Vá até a pasta do módulo desejado e **COLE** seu arquivo na pasta `exercises`

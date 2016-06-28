@@ -1,34 +1,44 @@
-# Calendário Dezembro
+# [Grupo do Telegram](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A)
 
-![](./Calendar/2015-dezembro.png)
+Para entrar no grupo oficial do Be mean no Telegram basta seguir o link [https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A](https://telegram.me/joinchat/BJ_gtz49o2OSzTU90SKp-A), lembrando que só é permitido postagens e discussões sobre dúvidas e/ou assuntos pertinentes ao curso, aquele que não respeitar essas regras será banido.
 
-# Os brindes serão enviados ATÉ O NATAL!!!
+# Sobre
 
-# Doações
+## Brindes
+
+Os brindes estão sendo enviados e **apenas quem apoiou no CROWDFUNDING**, que finalizou 27/10/2015, porém logo mais teremos os mesmos brindes sendo vendidos na nossa Lujinha!
+
+
+## Aulas
+
+Sairão em média *2 aulas** por semana.
+
+
+# APOIE
 
 ## R$50
 
-Recebe os três primeiros certificados (MongoDB, Node.js e AngularJs) com 42 horas ao total.
+Recebe os três primeiros certificados (MongoDB, Node.js e AngularJs) com 160 horas ao total.
 
 Certificados:
 
-- MongoDB (7 horas)
-- Node.js (20 horas)
-- AngularJs (15 horas)
+- MongoDB (20 horas)
+- Node.js (100 horas)
+- AngularJs (40 horas)
 
 
-Acesse [http://dagora.net/be-mean/](http://dagora.net/be-mean/) para apoiar.
+**Acesse [http://webschool.io/bemean](Webschool.io/bemean) para apoiar.**
 
 
 ## R$100
 
-Recebe **TODOS OS 10,  pode aumentar**, certificados com **mais de 104 horas ao total!!!**
+Recebe **TODOS OS 12,  pode aumentar**, certificados com **mais de 240 horas ao total!!!**
 
 Certificados:
 
-- MongoDB (9 horas)
-- Node.js (20 horas)
-- AngularJs (15 horas)
+- MongoDB (20 horas)
+- Node.js (100 horas)
+- AngularJs (40 horas)
 - Frontend (15 horas)
 - NoSQL (13 horas)
 - Segurança (3 horas)
@@ -36,8 +46,14 @@ Certificados:
 - UX & Animations (7 horas)
 - ES6 (5 horas)
 - Deploy e Servidores (5 horas)
+- CSS (10 horas)
+  - Animações (2 horas)
+  - Less (2 horas)
+  - Sass (2 horas)
+  - Stylus (2 horas)
+  - PostCSS (2 horas)
 
-Acesse [http://dagora.net/be-mean/](http://dagora.net/be-mean/) para apoiar.
+**Acesse [http://webschool.io/bemean](Webschool.io/bemean) para apoiar.**
 
 
 # Certificado
@@ -45,44 +61,43 @@ Acesse [http://dagora.net/be-mean/](http://dagora.net/be-mean/) para apoiar.
 Para tirar o certificado você precisa entregar 3 coisas:
 
 - **Todos os exercícios;**
-- **O Artigo e Projeto final;**
+- **O Artigo;**
+- **O Projeto final;**
 - **Um resumo em forma de blog/github-pages.**
 
 Esse resumo pode ser apenas um README.md em um repositório que vire um site com Github Pages ou usando qualquer outro sistema de blog.
+
+## R$500
+
+Recebe TODOS OS 12, pode aumentar, certificados com mais de 240 horas ao total!!!
+
+Ganha 1 camiseta do Be MEAN, 10 adesivos, a escolher, e pode requisitar um Hangout, de 2 horas, sobre um assunto específico do MEAN para a sua empresa!!!
 
 ## Prazo
 
 **Não tem data limite para se retirar o certificado.**
 
-
 # O Professor
 
-Olá meu nome é Jean Carlo Nascimento, mais conhecido como **Suissa**, por favor me chame assim, já trabalho com Web uns 10 anos profissionalmente e há mais de 3 apenas com JavaScript.
+Olá meu nome é Jean Carlo Nascimento, mais conhecido como **Suissa**, por favor me chame assim, já trabalho com Web uns 10 anos profissionalmente e há mais de 4 apenas com JavaScript.
 
 Criei o Be MEAN há mais de 2 anos, sendo o único curso presencial até início de 2015 e o único **AO VIVO** quase bimensalmente.
 
-Por incrível que pareça eu sou professor há mais de 5 anos, onde minha primeira aula foi em uma **faculdade**, [FAFIT](http://www.fafit.com.br/), quando eu estava iniciando minha pós em Desenvolvimento Web em Ponta Grossa, Paraná.
+Por incrível que pareça sou professor há mais de 5 anos, onde minha primeira aula foi em uma **faculdade**, [FAFIT](http://www.fafit.com.br/), quando eu estava iniciando minha pós em Desenvolvimento Web em Ponta Grossa, Paraná.
 
-Hoje dou aula em pós-graduações e nem tenho minha pós finalizada, louco né?
-
-Mas já avisando será a última pós que darei aula será a da minha cidade onde ministrarei a disciplina de NoSQL <3.
-
-Nas outras era sempre HTML5/CSS3 e JavaScript, só faltava um de Banco de Dados NoSQL que eu amo, acho que fecharei com chave de ouro e me focarei única exclusivamente à faculdade web que desejo criar **para a Webschool.io**
-
+Hoje dou aula em **algumas** pós-graduações e nem tenho minha pós finalizada, louco né?
 
 # A Aula
 
 A aula segue um grande *workflow* até ser divulgada:
 
-1. Resolução do exercício da aula anterior;
-2. Gravação da resolução do exercício;
-3. Criação do material na apostila;
-4. Execução dos códigos para confirmação;
-5. Criação do conteúdo dos slides;
-6. Gravação da aula;
-7. Edição da aula;
-8. Upload da aula;
-9. Divulgação do link.
+1. Criação do material na apostila;
+2. Execução dos códigos para confirmação;
+3. Criação do conteúdo dos slides;
+4. Gravação da aula;
+5. Edição da aula;
+6. Upload da aula;
+7. Divulgação do link.
 
 ## Início
 
@@ -140,6 +155,8 @@ Após fazer isso você receberá seu certificado gratuitamente além de ajudar m
 - **Ionic (10 horas)**
 
 ##  Módulo MongoDB - 09.11 a 22.11
+
+[Slides](https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit?usp=sharing)
 
 - **Aula 00 - 08.11**
     + Vídeo: [https://www.youtube.com/watch?v=-ccU_-OIka4](https://www.youtube.com/watch?v=-ccU_-OIka4)
@@ -261,240 +278,166 @@ Após fazer isso você receberá seu certificado gratuitamente além de ajudar m
 - **PROJETO**
 	+ **de 20.11 a 30.11**
 
-##  Módulo Node.js - 07.12 a 27.12
+##  Módulo Node.js - 07.12 a 15.03
 
-## Roteiro - 20 horas
+## Roteiro - 50 horas
 
-- **Aula 01: 07/12/2015**
-    + [Teoria](./theory.md) - Profs.: [Suissa](https://github.com/suissa) e [Caio]()
-        - **INICIO = 0:11 - Porque esqueci de retirar 10s iniciais de silêncio  -DESCULPE!!!**
-        - O Node.js - 1:28
-        - O Node.js - V8 - 6:43
-        - O Node.js - Single Thread - 7:57
-        - O Node.js - Event Loop - 9:20
-        - O Node.js - Libuv - 12:17
-        - O Node.js - I/O Async - 13:57
-        - -                      AVISOOOOO              - 17:27
-        - O Node.js - Thread Pol - 18:52
-        - O Node.js - Event Driven - 22:00
-        - O Node.js - API - 29:43
-        - Use Case - PayPal - 35:18
-        - EIIIIIII JAVAAAAAA!!!!!! - 39:18
-        - Node.js - Instalação - 39:28
-        - Node.js - Rodando - 43:24
-        - **EXERCÍCIO** - 50:19
-        - **ARTIGO** - 51:25
-- **Aula 02 - 07/12/2015**
-    + [HTTP](./http.md) - Prof.: [Suissa](https://github.com/suissa)
+[Slides](https://docs.google.com/presentation/d/1_CHh_fTkzgxAnxB3MlZ5WRhTqMLViMk__jkCZiZ3IMA/edit?usp=sharing)
+
+- Aula 01
+   + Vídeo: [https://www.youtube.com/watch?v=OgfO37F6mdg](https://www.youtube.com/watch?v=OgfO37F6mdg)
+    + [Teoria](./src/theory.md) - Profs.: [Suissa](https://github.com/suissa) e [Caio](https://github.com/caiocutrim)
+        * V8
+        * Single thread
+        * Event Loop
+        * I/O Async
+        * Libuv
+        * Event Driven
+        * API
+    + [Instalação](./Apostila/module-nodejs/pt-br/installation.md)
+- Aula 02
+   + Vídeo: [https://www.youtube.com/watch?v=mDtNcosGgiU](https://www.youtube.com/watch?v=mDtNcosGgiU)
+    + [HTTP](./Apostila/module-nodejs/pt-br/http.md) - Prof.: [Suissa](https://github.com/suissa)
         * createServer
         * Methods
         * Status Codes
+        * [Rotas]()
+- Aula 03
+   + Vídeo: [https://www.youtube.com/watch?v=TpNofR3Axsk](https://www.youtube.com/watch?v=TpNofR3Axsk)
+    + [HTTP](./Apostila/module-nodejs/pt-br/http.md) - Prof.: [Suissa](https://github.com/suissa)
         * get
         * request
-        * [Rotas]()
-- **Aula 03 - 08/12/2015**
-    + [Callbacks](./callbacks.md) - Prof.: [Caio Cutrim](https://github.com/caiocutrim/)
-    + [FileSystem](./fs.md) - Prof.: [William Bruno](https://github.com/wbruno)
+            * post
+            * put
+- Aula 04
+   + Vídeo: [https://www.youtube.com/watch?v=f9SE7Y0qYEg](https://www.youtube.com/watch?v=f9SE7Y0qYEg)
+    + [Callbacks](./Apostila/module-nodejs/pt-br/callback.md) - Prof.: [Caio Cutrim](https://github.com/caiocutrim/)
+    + [FileSystem](./Apostila/module-nodejs/pt-br/fs.md) - Prof.: [William Bruno](https://github.com/wbruno)
         * mkdir
         * open
         * readdir
         * readFile
         * rename
         * writeFile
-- **Aula 04 - 08/12/2015**
-    + [npm](./npm.md) - Prof.: [Suissa](https://github.com/suissa)
+
+- Aula ESPECIAL
+   + [ES6 - Vídeo](https://www.youtube.com/watch?v=sw7kPzkIN4g)
+    + [ES6 - Apostila](./Apostila/module-es6/README.md) - Prof.: [Suissa](https://github.com/suissa)
+
+- Aula 05
+   + [npm - Vídeo](https://www.youtube.com/watch?v=Kg4RovUQWeg)
+    + [npm - Apostila](./Apostila/module-nodejs/pt-br/npm.md) - Prof.: [Suissa](https://github.com/suissa)
         * init
         * install --global ou -g
         * install --save
         * install --save-dev
         * install --optional
         * run
-    + [Globals]() - Prof.: [Caio](https://github.com/caiocutrim/)
+
+   + Vídeo: [https://www.youtube.com/watch?v=DD1XKyaq9NE](https://www.youtube.com/watch?v=DD1XKyaq9NE)
+    + [Globals](./src/) - Prof.: [Caio](https://github.com/caiocutrim/)
         * CommonJS
-    + [Process]() - Prof.: [Caio](https://github.com/caiocutrim/)
-- **Aula 05 - 09/12/2015**
-    + [Mongoose]() - Prof.: [Suissa](https://github.com/suissa)
+    + [Process](./src/) - Prof.: [Caio](https://github.com/caiocutrim/)
+- Aula 06
+  + [Mongoose - Parte 1/3](https://www.youtube.com/watch?v=O8odFa3dl-k)
+  + [Mongoose - Parte 2/3](https://www.youtube.com/watch?v=02a_lo_KLwU)
+  + [Mongoose - Parte 3/3](https://www.youtube.com/watch?v=XeLRYhrcKJo)
+  + [Mongoose](./src/) - Prof.: [Suissa](https://github.com/suissa)
         * Create
         * Retrieve
         * Update
         * Delete
-- **Aula 06 - 09/12/2015**
-    + [Eventos]() - Prof.: [Itacir](https://github.com/pompeu)
+        * Validação
+- Aula 07
+   + Vídeo: [https://www.youtube.com/watch?v=i6h1A-l11-k](https://www.youtube.com/watch?v=i6h1A-l11-k)
+    + [Eventos](./src/) - Prof.: [Itacir](https://github.com/pompeu)
         * Mongoose
-    + [Promises]() - Prof.: [Itacir](https://github.com/pompeu)
+    + [Promises](./src/) - Prof.: [Itacir](https://github.com/pompeu)
         * Mongoose
-- **Aula 07 - 10/12/2015**
-    + [Mongoose]() - Prof.: [Suissa](https://github.com/suissa)
+- Aula 08
+
+   + [Mongoose - Parte 1/6](https://www.youtube.com/watch?v=tscqqhVQje8) 
+   + [Mongoose - Parte 2/6](https://www.youtube.com/watch?v=_wj0y_77CYs)
+   + [Mongoose - Parte 3/6](https://www.youtube.com/watch?v=8M4pN64BsnU)
+   + [Mongoose - Parte 4/6](https://www.youtube.com/watch?v=xR3ex_YjQyc)
+   + [Mongoose - Parte 5/6](https://www.youtube.com/watch?v=VRGI-R_PxpQ)
+   + [Mongoose - Parte 6/6](https://www.youtube.com/watch?v=3Hq7O7TeXjw)
+   
+    + [Mongoose](./src/) - Prof.: [Suissa](https://github.com/suissa) & Prof.: [Itacir](https://github.com/pompeu)
         * Arquitetura Atômica
+        * Getters & Setters
+        * Methods && Statics
+        * Virtuals
+        * Index
         * Validate
         * Populate
         * Plugins
-- **Aula 08 - 10/12/2015**
-    + [TDD]() - Prof.: [Itacir](https://github.com/pompeu)
-        * mocha
+        * Middlewares
+- Aula 09
+  + [TDD - Parte 1/3](https://www.youtube.com/watch?v=dHeb_Gs4zzo)
+  + [TDD - Parte 2/3](https://www.youtube.com/watch?v=OCB7jMZBIas)
+  + [TDD](./src/) - Prof.: [Itacir](https://github.com/pompeu)
         * assert
         * chai
+        * mocha
     - Teste Atômicos  - Prof.: [Suissa](https://github.com/suissa)
-- **Aula 09 - 11/12/2015**
-    + [Express]() - Prof.: [Suissa](https://github.com/suissa)
-        * Model
-        * Controller
-        * Routes
-- **Aula 10 - 11/12/2015**
-    + [Express]()
-        * Events - Prof.: [Itacir](https://github.com/pompeu)
-        * Promises - Prof.: [Itacir](https://github.com/pompeu)
-        * Middlewares - Prof.: [Caio](https://github.com/caiocutrim/)
-- **Aula 11 - 14/12/2015**
-    + [Express]()
-        * TDD - Prof.: [Itacir](https://github.com/pompeu)
-    + [Socket.io]() - Prof.: [Suissa](https://github.com/suissa)
-        * TDD - Prof.: [Itacir](https://github.com/pompeu)
-- **Aula 12 - 14/12/2015**
-    + [REPL]() - Prof.: [Suissa](https://github.com/suissa)
-    + [UDP](./http.md) - Prof.: [Caio](https://github.com/suissa)
-    + [TCP](./http.md) - Prof.: [Caio](https://github.com/suissa)
-    + [HTTPS](./http.md) - Prof.: [Caio](https://github.com/suissa)
-- **Aula 13 - 15/12/2015**
-    + [Utilizando APIs externas]() - Prof.: [Suissa](https://github.com/suissa)
-        * [pokemons](http://pokeapi.co/) - Prof.: [William Bruno](https://github.com/wbruno)
-        * [github](https://developer.github.com/v3/) - Prof.: [William Bruno](https://github.com/wbruno)
-        * [redtube](http://api.redtube.com/docs/) - Prof.: [Suissa](https://github.com/suissa)
-        * [instagram](https://www.instagram.com/developer/) - Prof.: [Suissa](https://github.com/suissa)
-- **Aula 14 - 15/12/2015**
-    + [Autenticação]() - Prof.: [Caio](https://github.com/caiocutrim/)
-        * Session
-            - Express
-            - Mongoose/MongoDB
-- **Aula 15 - 16/12/2015**
-    + [Autenticação]() - Prof.: [Caio](https://github.com/caiocutrim/)
-        * Token
-- **Aula 16 - 17/12/2015**
-    + **[Projeto em aula]**
-        * [ScrumBan - Gerenciador de Projeto com Github](https://github.com/Webschool-io/be-mean-instagram/tree/master/projects/Scrumban)
-            - Prof.: [Caio Cutrim](https://github.com/caiocutrim)
-- **Aula 17 - 17/12/2015**
-    + **[Projeto em aula]**
-        * [Estante Virtual](https://github.com/Webschool-io/be-mean-instagram/tree/master/projects/Estante-Virtual)
-            - Prof.: [William Bruno](https://github.com/wbruno)
-- **Aula 18 - 16/12/2015**
-    + **[Projeto em aula]**
-        * [Gerenciador de Doações](https://github.com/Webschool-io/be-mean-instagram/tree/master/projects/Donations)
-            - Prof.: [Suissa](https://github.com/suissa)
-- **Aula 19 - 18/12/2015**
-    + **[Projeto em aula]**
-        * [Jobs - Gerenciador de Vagas de Trabalho](https://github.com/Webschool-io/be-mean-instagram/tree/master/projects/Jobs)
-            - Prof.: [Itacir Pompeu](https://github.com/pompeu)
-- **Aula 20 - 18/12/2015**
-    + **[Projeto em aula]**
-        * [DevCouchsurfing](https://github.com/Webschool-io/be-mean-instagram/tree/master/projects/DevCouchsurfing)
-            - Prof.: [Bruno Marinho](https://github.com/bmsrox)
+- Aula 10
+    + [Express - Introdução - Parte 1/3](https://www.youtube.com/watch?v=ZRUuBfoYlxs&index=20&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+    + [Express - Response - Parte 2/3](https://www.youtube.com/watch?v=CcFxvOBohvM&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ&index=21)
+    + [Express - Response - Parte 3/3](https://www.youtube.com/watch?v=0TnThWFlvhs&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ&index=22)
+- Aula 11
+    + [Express - Request - Parte 1/3](https://www.youtube.com/watch?v=chCB2hFmnoQ&index=23&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+    + [Express - Router - Parte 2/3](https://www.youtube.com/watch?v=aSesEKO5uw8&index=24&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+    + [Express - Generator - Parte 3/3](https://www.youtube.com/watch?v=chCB2hFmnoQ&index=25&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+- Aula 12
+  + [Mongoose - Atomic - Parte 1/3](https://www.youtube.com/watch?v=2lml_4kOhgU&index=26&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+  + [Mongoose - Atomic - Parte 2/3](https://www.youtube.com/watch?v=-1BFew5Kmn0&list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ&index=27)
+- Aula 13
+    + [REPL] - Prof.: [Suissa](https://github.com/suissa)
+    + [Crawler] - Prof.: [Suissa](https://github.com/suissa)
+- Aula 14
+    + [Socket.io] - Prof.: [Guilherme Paixão](guilhermeepaixaoo)
+- Aula 15
+    + [Autenticação - JWT - Parte 1/2]
+    + [Autenticação - Passport - Parte 2/2]
 
-##  Módulo Angular - 04.01 a 31.01
+**[Junto com o módulos: Angular e Frontend]**
+- Aula 17
+    + [Express](./src/)
+        * Internacionalização [Suissa](https://github.com/suissa)
+            - http://ejohn.org/blog/a-strategy-for-i18n-and-node/
+            - https://github.com/jeresig/i18n-node-2
 
-- **Aula 01 - 04.01**
-- **Aula 02 - 05.01**
-- **Aula 03 - 06.01**
-- **Aula 04 - 07.01**
-- **Aula 05 - 08.01**
-- **Aula 06 - 11.01**
-- **Aula 07 - 12.01**
-- **Aula 08 - 13.01**
-- **Aula 09 - 14.01**
-- **Aula 10 - 15.01**
-- **Aula 11 - 18.01**
-- **Aula 12 - 19.01**
-- **Aula 13 - 20.01**
-- **Aula 14 - 21.01**
-- **Aula 15 - 22.01**
-- **PROJETO**
-	+ de 23.01 a 31.01
+##  Módulo ES6
 
-##  Módulo Frontend - 01.02 a 05.03
-- **Aula 01 - 01.02**
-- **Aula 02 - 02.02**
-- **Aula 03 - 03.02**
-- **Aula 04 - 04.02**
-- **Aula 05 - 05.02**
-- **Aula 06 - 15.02**
-- **Aula 07 - 16.02**
-- **Aula 08 - 17.02**
-- **Aula 09 - 18.02**
-- **Aula 10 - 19.02**
-- **Aula 11 - 22.02**
-- **Aula 12 - 23.02**
-- **Aula 13 - 24.02**
-- **Aula 14 - 26.02**
-- **Aula 15 - 26.02**
-- **PROJETO**
-	+ de 27.02 a 05.03
+##  Módulo Angular
 
-##  Módulo Segurança - 07.03 a 22.03
-- **Aula 01 - 07.03**
-- **Aula 02 - 08.03**
-- **Aula 03 - 09.03**
-- **Aula 04 - 19.03**
-- **Aula 05 - 20.03**
-- **Aula 06 - 21.03**
-- **Aula 07 - 22.03**
+[Slides](https://docs.google.com/presentation/d/1kybcrCOtDuSRzK8C-lxgomqe-JOd8aoCYOBYw-gN2nE/edit?usp=sharing)
 
-##  Módulo UX & Animations - 10.03 a 27.03
-- **Aula 01 - 10.03**
-- **Aula 02 - 11.03**
-- **Aula 03 - 14.03**
-- **Aula 04 - 15.03**
-- **Aula 05 - 16.03**
-- **Aula 06 - 17.03**
-- **Aula 07 - 18.03**
-- **Aula 08 - 23.03**
-- **Aula 09 - 24.03**
-- **Aula 10 - 25.03**
-- **Aula 11 - 26.03**
-- **Aula 12 - 27.03**
+- Aula 1
+    + [Introdução](https://www.youtube.com/watch?v=Zz2Mtq1MD4s)
+- Aula 2
+    + [Filtros]()
 
+##  Módulo Frontend
 
-##  Módulo NoSQL - 28.03 a 17.04
-- **Aula 01 - 28.03**
-- **Aula 02 - 29.03**
-- **Aula 03 - 30.03**
-- **Aula 04 - 31.03**
-- **Aula 05 - 01.04**
-- **Aula 06 - 04.04**
-- **Aula 07 - 05.04**
-- **Aula 08 - 06.04**
-- **Aula 09 - 07.04**
-- **Aula 10 - 08.04**
-- **PROJETO**
-	+ de 09.04 a 17.04
+- Atomic Design: [Suissa](https://github.com/suissa)
+- Offline-first: [Suissa](https://github.com/suissa)
+- Mobile-first: [Suissa](https://github.com/suissa)
+- Frontend Driven Development: [Suissa](https://github.com/suissa)
+- Less: [Caio Norder](https://github.com/caionorder)
+- Sass: [Amanda Vilela](https://github.com/amandavilela)
+- Stylus: [Marcos Felipe](https://github.com/omarkdev/)
+- PostCSS: [Fernando Fleury](https://github.com/fernandofleury)
+- Gulp: [Guilherme Diego](https://github.com/guidiego)
+- Acessibilidade: [Jorge Rafael](https://github.com/kurybr)
 
-##  Módulo Desktop - 17.04 a 08.05
-- **Aula 01 - 18.04**
-- **Aula 02 - 19.04**
-- **Aula 03 - 20.04**
-- **Aula 04 - 21.04**
-- **Aula 05 - 22.04**
-- **Aula 06 - 25.04**
-- **Aula 07 - 26.04**
-- **Aula 08 - 27.04**
-- **Aula 09 - 28.04**
-- **Aula 10 - 29.04**
-- **PROJETO**
-	+ de 30.04 a 08.05
+##  Módulo Segurança
 
-##  Módulo ES6 - 09.05 a 22.05
-- **Aula 01 - 09.05**
-- **Aula 02 - 10.05**
-- **Aula 03 - 11.05**
-- **Aula 04 - 12.05**
-- **Aula 05 - 13.05**
-- **PROJETO**
-	+ de 14.05 a 22.05
+##  Módulo UX & Animations
 
-##  Módulo Deploy - 23.05 a 05.06
-- **Aula 01 - 23.05**
-- **Aula 02 - 24.05**
-- **Aula 03 - 25.05**
-- **Aula 04 - 26.05**
-- **Aula 05 - 27.05**
-- **PROJETO**
-	+ de 28.05 a 05.06
+##  Módulo NoSQL
+
+##  Módulo Desktop
+
+##  Módulo Deploy
