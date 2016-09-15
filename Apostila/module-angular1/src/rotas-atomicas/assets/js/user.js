@@ -1,6 +1,7 @@
 
 function UserService($http) {
   const BASE_URL = 'http://localhost:3000/api/users/';
+
   this.list = function() {
     const request = {
       url: BASE_URL,
@@ -22,6 +23,13 @@ function UserService($http) {
     const request = {
       url: BASE_URL + user._id,
       method: 'DELETE'
+    }
+    return $http(request);
+  }
+  this.getRoutes = function() {
+    const request = {
+      url: 'routes.json',
+      method: 'GET'
     }
     return $http(request);
   }
@@ -149,33 +157,61 @@ function UserDetailsController($http, $routeParams) {
 UserController.$inject = ['$http', '$routeParams'];
 
 
+const helloWorld = function () {
+  return {
+    restrict: 'AECM',
+    replace: 'true',
+    template: '<h3>Hello World!!</h3>'
+  };
+};
 
 
 angular.module('User', [])
-  .config(['$routeProvider', function($routeProvider) {
-    $routeProvider
-      .when('/users', {
-        templateUrl: 'views/users-list.html',
-        controller: 'UserController',
-        controllerAs: 'User'
-      })
-      .when('/users/create', {
-        templateUrl: 'views/users-create.html',
-        controller: 'UserCreateController',
-        controllerAs: 'User'
-      })
-      .when('/users/github', {
-        templateUrl: 'views/users-github.html',
-        controller: 'UserGithubController',
-        controllerAs: 'UserGithub'
-      })
-      .when('/users/:id', {
-        templateUrl: 'views/users-details.html',
-        controller: 'UserDetailsController',
-        controllerAs: 'UserDetails'
+  .config(['$routeProvider', 'UserService', function($routeProvider, UserService) {
+
+    UserService.getRoutes()
+    .then((resolve) => {
+      console.log('resolve', resolve)
+      resolve.forEach( function(route, index) {
+        $routeProvider.when(route.path, {
+          templateUrl: route.view,
+          controller: route.action,
+          controllerAs: route.actionAs
+        })
       });
+    },
+      (reject) => {
+        console.log('DEU MERDA')
+      })
+    // const Routes = [
+    //   {
+    //     path: '/users',
+    //     view: 'views/users-list.html',
+    //     action: 'UserController',
+    //     actionAs: 'User'
+    //   },
+    //   {
+    //     path: '/users/create',
+    //     view: 'views/users-list.html',
+    //     action: 'UserController',
+    //     actionAs: 'User'
+    //   },
+    //   {
+    //     path: '/users/github',
+    //     view: 'views/users-list.html',
+    //     action: 'UserController',
+    //     actionAs: 'User'
+    //   },
+    //   {
+    //     path: '/users/:id',
+    //     view: 'views/users-list.html',
+    //     action: 'UserController',
+    //     actionAs: 'User'
+    //   }
+    // ]
   }])
   .service('UserService', UserService)
+  .directive('helloWorld', helloWorld)
   .controller('UserController', ['UserService', UserController])
   .controller('UserCreateController', ['UserService', UserCreateController])
   .controller('UserDetailsController', UserDetailsController)
